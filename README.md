@@ -94,7 +94,7 @@ The source in this repo (and the docs above) reflect the actual v1.0 implementat
 
 Both are one-time purchases — no subscription, no per-server metering, no telemetry phoning home.
 
-**[→ Get the license on Gumroad](https://xxen.gumroad.com/I/mcp)** — current pricing, instant download, setup docs included.
+**[→ Get the license on Gumroad](https://xxen.gumroad.com/l/mcp)** — current pricing, instant download, setup docs included.
 
 ## Before you buy: verify it yourself
 
