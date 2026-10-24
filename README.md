@@ -104,8 +104,6 @@ Don't take a README's word for a security model. The licensed package includes f
 
 *Requires Node.js 20+, a Discord bot application with `Manage Roles` / `Manage Channels`, and a server you administer.*
 
-This does that. Nothing else.
-
 ---
 
 *Requires Node.js 20+, a Discord bot application with `Manage Roles` / `Manage Channels`, and a server you administer.*
