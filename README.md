@@ -85,7 +85,7 @@ If you administer a single small server by hand and enjoy doing it, you probably
 
 ## Getting it
 
-The source in this repo (and the docs above) reflect the actual v1.0 implementation. The full package — source, tests, and setup support — is distributed under a paid license rather than published as free/open source, because the ongoing guardrail and security work here isn't a side project.
+This README describes the v1.0 implementation. The full package — source, tests, and setup support — is distributed under a paid license rather than published as free/open source, because the ongoing guardrail and security work here isn't a side project.
 
 | | |
 |---|---|
@@ -98,7 +98,7 @@ Reach out via the repo's contact link for current pricing and to get set up.
 
 ## Before you buy: verify it yourself
 
-Don't take a README's word for a security model. The license includes full source access specifically so you (or someone you trust) can read `src/domain/guardrails.ts` and `SECURITY.md` before it ever touches a real server. Test it against a throwaway guild first. That's what the dry-run mode is for.
+Don't take a README's word for a security model. The licensed package includes full source access specifically so you (or someone you trust) can review `src/domain/guardrails.ts` and `SECURITY.md` before it ever touches a real server. Test it against a throwaway guild first. That's what the dry-run mode is for.
 
 ---
 
